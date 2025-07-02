@@ -3,7 +3,8 @@ body {
   font-family: 'Roboto', sans-serif;
   background: #fff;
   color: rgb(177, 168, 168);
-  background: url('logo.jpg') center/cover no-repeat;
+  background: url('logo.jpg') no-repeat center center;
+  background-size: cover;
 }
 
 .nav-bar {
